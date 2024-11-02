@@ -11,3 +11,12 @@ The `Examples` folder contains a variety of sample projects for the CH32V003 mic
 - **I2C_Interface**: Demonstrates how to communicate with I2C devices.
 
 Each folder contains a README with step-by-step instructions and code explanations. Start with `Basic_Blink` if you're new to CH32V003 development, and explore more advanced examples as you progress.
+
+## How to Use
+
+1. **Download** or **clone** this repository.
+2. Open MounRiver Studio.
+3. Go to **File > Open Project**, and navigate to the desired folder within this directory.
+4. Select the project and build or modify it as needed.
+
+
