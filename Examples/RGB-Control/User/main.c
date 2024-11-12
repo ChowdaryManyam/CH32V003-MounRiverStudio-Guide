@@ -12,8 +12,7 @@
 
 /*
  *@Note
- *This program combines the USART multiprocessor communication mode and
- *alarm tone generation for an antitheft device.
+ *This program combines the USART multiprocessor communication mode
  *
  *USART Configuration:
  *Master:USART1_Tx(PD5)\USART1_Rx(PD6).
