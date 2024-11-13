@@ -4,7 +4,7 @@
  * Version            : V1.1.0
  * Date               : 2024/09/20
  * Description        : Main program body for ADXL345 accelerometer communication.
- *********************************************************************************/
+ *********************************************************************************
  * Copyright (c) 2021 Nanjing Qinheng Microelectronics Co., Ltd.
  * Attention: This software (modified or not) and binary are used for 
  * microcontroller manufactured by Nanjing Qinheng Microelectronics.
