@@ -1,10 +1,25 @@
 /********************************** (C) COPYRIGHT *******************************
  * File Name          : main.c
- * Author             : WCH (modified for ADXL345 by user)
+ * Author             : Schrodinger.Guru
  * Version            : V1.1.0
  * Date               : 2024/09/20
  * Description        : Main program body for ADXL345 accelerometer communication.
  *********************************************************************************/
+ * Copyright (c) 2021 Nanjing Qinheng Microelectronics Co., Ltd.
+ * Attention: This software (modified or not) and binary are used for 
+ * microcontroller manufactured by Nanjing Qinheng Microelectronics.
+ *******************************************************************************/
+/*
+ *@Note
+ * Multiprocessor communication mode routine:
+ * This routine demonstrates the ADXL345 module integration on
+ * the CH32V003 (nano) board.
+ *
+ * Hardware connection:
+ * PC1 -- SDA
+ * PC2 -- SCL
+ *
+ */
 
 /* Includes ------------------------------------------------------------------*/
 #include "debug.h"
