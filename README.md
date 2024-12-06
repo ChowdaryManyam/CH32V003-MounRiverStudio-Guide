@@ -1,4 +1,4 @@
-**CH32V003-MounRiverStudio-Guide**
+**CH32V003-MounRiverStudio-Guide** © 2024 by Brahmananda Chowdary Manyam (Schrodinger Guru) is licensed under CC BY 4.0 
 
 This repository is a comprehensive guide for working with the CH32V003, a 32-bit RISC-V microcontroller designed for industrial-grade applications. The CH32V003 series is powered by the QingKe RISC-V2A core, supports a maximum clock frequency of 48MHz, and provides a versatile feature set ideal for low-power, compact designs.
 
